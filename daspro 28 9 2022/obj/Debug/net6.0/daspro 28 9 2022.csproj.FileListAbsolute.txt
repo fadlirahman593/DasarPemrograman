@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\daspro 28 9 2022\bin\Debug\net6.0\daspro 28 9 2022.exe
+C:\Users\User\Desktop\daspro 28 9 2022\bin\Debug\net6.0\daspro 28 9 2022.deps.json
+C:\Users\User\Desktop\daspro 28 9 2022\bin\Debug\net6.0\daspro 28 9 2022.runtimeconfig.json
+C:\Users\User\Desktop\daspro 28 9 2022\bin\Debug\net6.0\daspro 28 9 2022.dll
+C:\Users\User\Desktop\daspro 28 9 2022\bin\Debug\net6.0\daspro 28 9 2022.pdb
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.AssemblyInfo.cs
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.dll
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\refint\daspro 28 9 2022.dll
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.pdb
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\daspro 28 9 2022.genruntimeconfig.cache
+C:\Users\User\Desktop\daspro 28 9 2022\obj\Debug\net6.0\ref\daspro 28 9 2022.dll

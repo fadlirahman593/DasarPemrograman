@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\bin\Debug\net6.0\pertemuan ke 7.exe
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\bin\Debug\net6.0\pertemuan ke 7.deps.json
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\bin\Debug\net6.0\pertemuan ke 7.runtimeconfig.json
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\bin\Debug\net6.0\pertemuan ke 7.dll
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\bin\Debug\net6.0\pertemuan ke 7.pdb
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.AssemblyInfo.cs
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.dll
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\refint\pertemuan ke 7.dll
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.pdb
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\pertemuan ke 7.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 1\Dasar Pemrograman\pertemuan ke 7\obj\Debug\net6.0\ref\pertemuan ke 7.dll
